@@ -34,3 +34,20 @@ Passeio virtual com conteúdo geocientífico na região de Anavilhanas
 Modelos 3D de afloramentos, construídos com técnicas de Structure from Motion a partir de imagens de drone
 - Pedra da Mesa: 🔗 https://skfb.ly/oKKqN
 - Pedra Sanduíche: 🔗 https://skfb.ly/oKLXy
+
+## 🛠️ Ferramentas Utilizadas
+
+- QGIS (com plugins GRASS, SAGA)
+- Google Earth Pro
+- Corel Draw
+- Agisoft Metashape Professional
+- Kolor Autopano Giga
+- Kolor Panotour Pro
+- Adobe Photoshop
+- Visual Studio Code
+
+---
+
+## 📫 Contato
+
+📧 vivian.lgcavalcante@gmail.com 
