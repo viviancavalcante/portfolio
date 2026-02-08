@@ -24,3 +24,13 @@ Produtos cartográficos produzidos no projeto de mestrado integrando dados geol�
 ### 📍 Mapas de Localização - Estudos em Geodiversidade no Amazonas
 - Localização dos projetos: [Acessar mapa](geodiversidade_AM_mapa.pdf)
 - Localização da área de estudo: [Acessar mapa](novo_airao_localizacao.pdf)
+
+## Produtos Virtuais
+### Passeio Virtual no Parque Nacional de Anavilhanas
+Passeio virtual com conteúdo geocientífico na região de Anavilhanas
+🔗 https://geohereditas.igc.usp.br/passeio-virtual-anavilhanas/
+
+### Modelos 3D
+Modelos 3D de afloramentos, construídos com técnicas de Structure from Motion a partir de imagens de drone
+- Pedra da Mesa: 🔗 https://skfb.ly/oKKqN
+- Pedra Sanduíche: 🔗 https://skfb.ly/oKLXy
