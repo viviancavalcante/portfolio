@@ -5,7 +5,7 @@ Aqui apresento alguns trabalhos em SIG, sensoriamento remoto e análise ambienta
 
 ---
 
-## Mapas em PDF
+## Produtos Cartográficos em PDF
 ### 📍 Índice de Geodiversidade – Presidente Figueiredo (AM)
 Produtos cartográficos produzidos no projeto de mestrado integrando dados geológicos, pedológicos, hidrográficos e geomorfológicos 
 - Localização da área de estudo: [Acessar mapa](presidente_figueiredo_localizacao.pdf)
@@ -25,7 +25,7 @@ Produtos cartográficos produzidos no projeto de mestrado integrando dados geol�
 - Localização dos projetos: [Acessar mapa](geodiversidade_AM_mapa.pdf)
 - Localização da área de estudo: [Acessar mapa](novo_airao_localizacao.pdf)
 
-## Produtos Virtuais
+## Fotogrametria e Modelagem 3D
 ### Passeio Virtual no Parque Nacional de Anavilhanas
 Passeio virtual com conteúdo geocientífico na região de Anavilhanas
 🔗 https://geohereditas.igc.usp.br/passeio-virtual-anavilhanas/
@@ -35,16 +35,23 @@ Modelos 3D de afloramentos, construídos com técnicas de Structure from Motion 
 - Pedra da Mesa: 🔗 https://skfb.ly/oKKqN
 - Pedra Sanduíche: 🔗 https://skfb.ly/oKLXy
 
-## 🛠️ Ferramentas Utilizadas
+## Projetos em Python
+### 
 
-- QGIS (com plugins GRASS, SAGA)
+## 🛠️ Ferramentas Utilizadas
+### GIS e Análise Espacial
+- QGIS (GRASS, SAGA)
 - Google Earth Pro
-- Corel Draw
-- Agisoft Metashape Professional
+### Fotogrametria
+- Agisoft Metashape
 - Kolor Autopano Giga
 - Kolor Panotour Pro
+### Edição e Finalização
+- Corel Draw
 - Adobe Photoshop
+### Programação
 - Visual Studio Code
+- Python
 
 ---
 
