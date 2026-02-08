@@ -22,4 +22,3 @@ Produtos cartográficos produzidos no projeto de mestrado integrando dados geol�
 ### 📍 Mapas de Localização - Estudos em Geodiversidade no Amazonas
 - Localização dos projetos: [Acessar mapa](geodiversidade_AM_mapa.pdf)
 - Localização da área de estudo: [Acessar mapa](novo_airao_localizacao.pdf)
----
