@@ -15,13 +15,11 @@ Produtos cartográficos produzidos no projeto de mestrado integrando dados geol�
 - Índice da Geodiversidade interpolação por Vizinhos Naturais: [Acessar mapa](presidente_figueiredo_indice_interpolado.pdf)
 - Infográfico interpretativo dos índices da geodiversidade: [Acessar mapa](presidente_figueiredo_indice_infografico.pdf)
   
----
 
 ### 📍 Mapas de Localização - Navegação Ana Carolina (Rondônia)
 - Localização da área de estudo: [Acessar mapa](ana_carolina_localizacao.pdf)
 - Localização da poligonal do empreendimento: [Acessar mapa](ana_carolina_area_poligonal.pdf)
   
----
 
 ### 📍 Mapas de Localização - Estudos em Geodiversidade no Amazonas
 - Localização dos projetos: [Acessar mapa](geodiversidade_AM_mapa.pdf)
